@@ -9,4 +9,4 @@ Question 1: Why does a physical (quantum) implementation of the spectral propert
 Question 2: How do we explain the "bounded below property" of energy in conformal field theories?
 
 ### Gluing Linear Graphs to get Cycle Graphs
-Expand on the explanation of using order to glue the ends of linear quivers to get cycle quivers to relate the algebras $M_n(\mathbb{C})$ and $M_n(C(S^1))$, and to explain how $A_{\infty}$ (compact operators) fits into the picture. See end of "Surface Algebras III". 
+Expand on the explanation of using order to glue the ends of linear quivers to get cycle quivers to relate the algebras $M_n(\mathbb{C})$ and $M_n(C(S^1))$, and to explain how $A_{\infty}$ (compact operators) fits into the picture. See "Surface Algebras III". 
