@@ -6,6 +6,7 @@ $$\otimes_{max}, \otimes_{min},$$ and C*-norms...
 
 ### Hilbert-Polya implies Yang-Mills Mass Gap
 Question 1: Why does a physical (quantum) implementation of the spectral properties of Artin L-functions via a quantum Hamiltonian give a mathematical theory of the gaps between Eigenstates and their corresponding Eigenvalues?
+
 Question 2: How do we explain the "bounded below property" of energy in conformal field theories?
 
 ### Gluing Linear Graphs to get Cycle Graphs
